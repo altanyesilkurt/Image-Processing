@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="action_settings">settings</string>
+    <string name="min_treshold">tresh</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="read_text_file">Read Text File</string>
+</resources>
